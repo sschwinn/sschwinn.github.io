@@ -1,0 +1,51 @@
+body {
+    font-size: 14pt;  
+    font-family: Palatino, Garamond, sans-serif;  
+    color: black;  
+    line-height: 14pt;  
+    padding-left: 5pt;  
+    padding-right: 5pt;  
+    padding-top: 5pt;  
+  }
+  
+  
+  h1 {  
+    font: 24pt Palatino, Garamond, sans-serif;  
+    font-weight: bold;  
+    color: #8A2Be2;
+    line-height: 20pt;  
+  }
+  
+  
+  p.subheader {  
+    font-weight: bold;  
+    color: #593d87;  
+  }
+  
+  
+  img {  
+    padding: 20pt;  
+    float: left;  
+  }
+  
+  
+  a {  
+    text-decoration: none;  
+  }
+   
+  a:link, a:visited {  
+    color: #4B0082;  
+  }
+  
+  
+  a:hover, a:active {  
+    color: #7B86EE;
+  }  
+  
+  div.footer {  
+    font-size: 9pt;  
+    font-style: italic;  
+    line-height: 12pt;  
+    text-align: center;  
+    padding-top: 30pt;  
+  }
